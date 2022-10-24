@@ -1,0 +1,65 @@
+.google {
+
+    margin-top: 150px;
+    text-align: center;
+}
+
+.search {
+    height: 90px;
+    background-color: bisque;
+
+}
+
+.search .text {
+    width: 500px;
+    border-radius: 50px;
+}
+
+.search .btn {
+    margin-top: 5px;
+    border-radius: 50px;
+}
+
+.btn:hover {
+    background-color: white;
+    color: blue;
+}
+
+.asd1 {
+
+    width: 35%;
+    height: 95px;
+    float: left;
+    text-align: center;
+    background-color: aquamarine;
+
+
+}
+
+.asd2 {
+    width: 25%;
+    height: 95px;
+    float: left;
+    text-align: center;
+    background-color: rgb(89, 199, 162);
+
+}
+
+.asd3 {
+    width: 40%;
+    height: 95px;
+    float: left;
+    text-align: center;
+    background-color: rgb(14, 173, 173);
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+footer {
+    text-align: center;
+    font-size: 14px;
+}
+
